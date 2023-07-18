@@ -6,7 +6,6 @@ int main()
     //x = a/f-c*b+e;
     //x =e*b*d-f%a;
     //x =a-b*e/b%d;
-    //x =
     cout << x;
     return(0);
 
